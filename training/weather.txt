@@ -1,0 +1,19 @@
+whats the weather like : -1
+whats the weather like in omaha : 5
+whats the weather like in san juan : 5,6
+whats the weather like in new york : 5,6
+whats the weather like in cupertino : 5
+whats the weather like in albuquerque : 5
+tell me about the weather : -1
+tell me about the weather in omaha : 6
+tell me about the weather in las vegas : 6,7
+tell me about the weather in pyeongyang : 6
+tell me about the weather in philadelphia : 6
+whats the temperature outside : -1
+whats the temperature : -1
+whats the temperature like : -1
+whats the temperature in san diego : 4,5
+is it snowing : -1
+is it raining : -1
+is it sleeting : -1
+is it hailing : -1

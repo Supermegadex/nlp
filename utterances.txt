@@ -1,0 +1,103 @@
+// Weather
+whats the weather like : weather
+whats the weather like in omaha : weather
+whats the weather like in san juan : weather
+whats the weather like in new york : weather
+whats the weather like in cupertino : weather
+whats the weather like in albuquerque : weather
+tell me about the weather : weather
+tell me about the weather in omaha : weather
+tell me about the weather in las vegas : weather
+tell me about the weather in pyeongyang : weather
+tell me about the weather in philadelphia : weather
+whats the temperature outside : weather
+whats the temperature : weather
+whats the temperature like : weather
+whats the temperature in san diego : weather
+is it snowing : weather
+is it raining : weather
+is it sleeting : weather
+is it hailing : weather
+
+// Greetings
+hello : hello
+hello there : hello
+hello friend : hello
+good morning : hello
+good day : hello
+good evening : hello
+hey : hello
+good bye : goodbye
+goodbye : goodbye
+bye : goodbye
+have a nice day : goodbye
+god bless : goodbye
+
+// Directions
+how do i get to the art museum : directions
+how do i get to denver : directions
+how do i get to the nearest gas station : directions
+how do i get to my house : directions
+whats the fastest way to get home : directions
+whats the fastest way to work : directions
+whats the quickest way to the coffee house : directions
+which way do i go to get to the googleplex : directions
+tell me how to get to stanford university : directions
+tell me how to get to the airport : directions
+directions to my house : directions
+directions to best buy : directions
+directions to village inn : directions
+tell me how to get to stanford university : directions
+hi id like directions to uncle jeffs pizzaria bar in donglington ner : directions
+go to prep : directions
+take me home : directions
+take me to the bar : directions
+
+// Timer
+set a timer ten minutes : timer
+set a timer for an hour : timer
+start a timer for five minutes : timer
+start a timer for twenty minutes : timer
+
+// Alarm
+set an alarm for seen oclock tomorrow : alarm
+set an alarm for ten oclock in the morning : alarm
+set an alarm six thirty : alarm
+wake me up at noon tomorrow : alarm
+wake me up in time for my meeting : alarm
+
+// Music
+play some classical music on spotify : music
+play some music : music
+listen to undertale on spotify : music
+listen to some rock music : music
+play good music : music
+play my daily mix on spotify : music
+drop some sick beats : music
+
+// Definitions
+what does tribulation mean : definition
+tell me the definition of card : definition
+define phone : definition
+define apple : definition
+define feminist: definition
+explain what sanitize means : definition
+tell me the defintion of watch : definition
+tell me what sink means : definition
+what does case mean : definition
+what does spray mean : definition
+whats the definition of explore : definition
+would you be able to explain to me the meaning of life : definition
+whats a roo mate : defintion
+
+// Send a message
+send a text to pj that says hello world : message
+text matt : message
+text chris : message
+text jon : message
+text colin : message
+send a message to eric : message
+send a text to micheal hows your day been : message
+message pat whats up : message
+
+// Bing bong
